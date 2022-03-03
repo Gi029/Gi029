@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gi029
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning JS.
+- 👀 I’m interested in Front-end web developer.
+- 🌱 I’m currently learning html, css and JS.
 - 💞️ I’m looking to collaborate.
 
 
